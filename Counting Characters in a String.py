@@ -20,3 +20,5 @@ s= "eFwSdVEImDaGeovGahugQeOKauADHIISUcLprrhAWgXqpvUCYlQNmcQDagulYECtqceMdYeZyueu
 print("Method 1:",method1(s))
 print("Method 2:",method2(s))
 print("Method 3:",method3(s))
+
+# https://www.codewars.com/kata/52efefcbcdf57161d4000091

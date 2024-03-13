@@ -4,7 +4,7 @@ def factors(n):
         if n%i == 0:
             arr_fac.append(i)
             arr_fac.append(n//i)
-    return set(sorted(arr_fac))
+    return sorted(set(arr_fac))
 
 while True:
     print(str(factors(int(input("Enter num: ")))))
